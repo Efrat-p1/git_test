@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-line- new
-new
-=======
-line- new2
->>>>>>> 83a36c2c4aeeef9e6989b75503620958c957434b
+Github_change1
